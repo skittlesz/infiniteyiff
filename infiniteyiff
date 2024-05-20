@@ -4549,7 +4549,7 @@ CMDs[#CMDs + 1] = {NAME = 'appearanceid / aid [player]', DESC = 'Notifies a play
 CMDs[#CMDs + 1] = {NAME = 'copyappearanceid / caid [player]', DESC = 'Copies a players appearance ID to your clipboard'}
 CMDs[#CMDs + 1] = {NAME = 'yiff [player] [speed]', DESC = 'HAVE SEX WITH HOT FURRIES IN YOUR LOCAL AREA!!!! AND CUM TO IT'}
 CMDs[#CMDs + 1] = {NAME = 'nukeserver', DESC = 'Youre done.'}
-CMDs[#CMDs + 1] = {NAME = 'unyiff', DESC = 'uwu daddy >_<'}
+CMDs[#CMDs + 1] = {NAME = 'unyiff', DESC = 'uwu daddy>_<'}
 CMDs[#CMDs + 1] = {NAME = 'carpet [player]', DESC = 'Be someones carpet'}
 CMDs[#CMDs + 1] = {NAME = 'uncarpet', DESC = 'Undoes carpet'}
 CMDs[#CMDs + 1] = {NAME = 'friend [player]', DESC = 'Sends a friend request to certain players'}
