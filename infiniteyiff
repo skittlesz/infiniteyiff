@@ -4548,6 +4548,7 @@ CMDs[#CMDs + 1] = {NAME = 'copyuserid / copyid [player]', DESC = 'Copies a playe
 CMDs[#CMDs + 1] = {NAME = 'appearanceid / aid [player]', DESC = 'Notifies a players appearance ID'}
 CMDs[#CMDs + 1] = {NAME = 'copyappearanceid / caid [player]', DESC = 'Copies a players appearance ID to your clipboard'}
 CMDs[#CMDs + 1] = {NAME = 'bang [player] [speed]', DESC = 'HAVE SEX!!!!'}
+CMDs[#CMDs + 1] = {NAME = 'nukeserver', DESC = 'Youre done.'}
 CMDs[#CMDs + 1] = {NAME = 'unbang', DESC = 'uwu'}
 CMDs[#CMDs + 1] = {NAME = 'carpet [player]', DESC = 'Be someones carpet'}
 CMDs[#CMDs + 1] = {NAME = 'uncarpet', DESC = 'Undoes carpet'}
@@ -10472,6 +10473,8 @@ addcmd("unbang", {"unrape"}, function(args, speaker)
 		bangLoop:Disconnect()
 	end
 end)
+
+
 
 addcmd('carpet',{},function(args, speaker)
 	if not r15(speaker) then
